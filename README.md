@@ -54,7 +54,7 @@ The workflow:
 ```
 # 🛠️ Setup Guide
 1️⃣ Install n8n
-
+```
 Official Website:
 
 https://n8n.io/
@@ -67,6 +67,7 @@ n8n
 Access:
 
 http://localhost:5678
+```
 # 🔑 Gmail OAuth2 Setup
 ```
 Enable Gmail API

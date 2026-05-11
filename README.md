@@ -1,4 +1,4 @@
-<img width="704" height="270" alt="Screenshot 2026-05-11 115729" src="https://github.com/user-attachments/assets/b7b10f7d-55a7-4da0-924e-a21b627f4b66" /># 🔐 Automated IP Reputation & Gmail Alert System using n8n
+# 🔐 Automated IP Reputation & Gmail Alert System using n8n
 
 A Security Operations Center (SOC)-style automation workflow built in n8n that analyzes IP reputation data and automatically sends professional Gmail alerts based on the security assessment result.
 

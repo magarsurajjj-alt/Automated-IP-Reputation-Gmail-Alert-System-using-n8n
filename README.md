@@ -116,6 +116,7 @@ Example:
 {
   "ip": "8.8.8.8"
 }
+
 3️⃣ HTTP Request
 
 Sends request to threat intelligence API.
@@ -123,6 +124,7 @@ Sends request to threat intelligence API.
 Method:
 
 GET
+
 4️⃣ IF Node
 
 Checks whether the IP is malicious or safe.
@@ -130,6 +132,7 @@ Checks whether the IP is malicious or safe.
 Example Logic:
 
 {{$json["malicious"]}} == true
+
 5️⃣ Gmail Nodes
 
 Two different email paths:

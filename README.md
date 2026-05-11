@@ -90,16 +90,8 @@ Paste them into Gmail OAuth2 credentials in n8n
 ```
 🌐 Threat Intelligence API
 ```
-Example API:
-
-https://jsonplaceholder.typicode.com/users
-
-You can later replace it with:
-
-AbuseIPDB
-VirusTotal
-AlienVault OTX
-GreyNoise
+https://www.virustotal.com/api/v3/ip_addresses/{{$json.ip}}
+Tools: VirusTotal
 ```
 # 🧩 Workflow Nodes
 

@@ -160,20 +160,22 @@ At this time, the IP is classified as safe and does not appear to be associated 
 
 
 # 🚨 Example Threat Alert
+```
 Subject:
 SOC Threat Detection Alert
 Body:
 Potentially malicious activity has been detected during automated IP reputation analysis. Indicators suggest the IP may be associated with suspicious or harmful behavior.
 
 Immediate investigation is recommended.
-🧪 How to Run
+```
+# 🧪 How to Run
 Click:
 Execute Workflow
 Observe workflow path:
 TRUE → Threat alert
 FALSE → Safe notification
 Check email inbox for automated alert.
-📚 Skills Demonstrated
+# 📚 Skills Demonstrated
 Security Automation
 SOC Workflow Design
 Threat Intelligence Integration
@@ -182,7 +184,7 @@ API Handling
 Conditional Logic
 Email Automation
 Incident Notification Systems
-🔥 Future Improvements
+# 🔥 Future Improvements
 Slack/Discord alerts
 Splunk integration
 VirusTotal API support

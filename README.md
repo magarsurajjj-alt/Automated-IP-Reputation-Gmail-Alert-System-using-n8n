@@ -67,7 +67,8 @@ n8n
 Access:
 
 http://localhost:5678
-🔑 Gmail OAuth2 Setup
+# 🔑 Gmail OAuth2 Setup
+```
 Enable Gmail API
 
 Open Google Cloud Console:
@@ -85,6 +86,7 @@ Copy:
 Client ID
 Client Secret
 Paste them into Gmail OAuth2 credentials in n8n
+```
 🌐 Threat Intelligence API
 
 Example API:

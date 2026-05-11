@@ -101,7 +101,8 @@ VirusTotal
 AlienVault OTX
 GreyNoise
 ```
-🧩 Workflow Nodes
+# 🧩 Workflow Nodes
+
 1️⃣ Manual Trigger
 
 Starts the workflow manually.

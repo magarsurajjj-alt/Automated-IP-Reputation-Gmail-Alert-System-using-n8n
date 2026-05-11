@@ -45,13 +45,13 @@ Security Automation Concepts
 # 📌 Project Objective
 ```
 This project demonstrates how SOC analysts and cybersecurity engineers can automate threat intelligence analysis and email alerting using low-code automation.
-```
 The workflow:
 
-Accepts an IP address
-Sends it to a threat intelligence API
-Evaluates the response
-Sends different email alerts depending on whether the IP is safe or suspicious
+1.Accepts an IP address
+2.Sends it to a threat intelligence API
+3.Evaluates the response
+4.Sends different email alerts depending on whether the IP is safe or suspicious
+```
 🛠️ Setup Guide
 1️⃣ Install n8n
 

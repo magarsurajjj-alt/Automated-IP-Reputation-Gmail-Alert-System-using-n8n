@@ -30,7 +30,7 @@ IF Node (Safe / Malicious Check)
  ↓                               ↓
 Safe Email                 Threat Alert Email
 ```
-##📸 Workflow Preview
+# 📸 Workflow Preview
 <img width="1365" height="679" alt="workflow_n8n" src="https://github.com/user-attachments/assets/f8321a82-ca0c-451b-947d-4f922bc5bc64" />
 
 ⚙️ Technologies Used

@@ -146,12 +146,14 @@ Sends a professional safe-status notification.
 Sends a high-priority security alert.
 
 # 📧 Example Safe Email
+```
 Subject:
 SOC Security Analysis Result
 Body:
 The IP address has been thoroughly analyzed as part of the security validation process. Based on the available threat intelligence and activity review, no malicious behavior, anomalies, or indicators of compromise were detected.
 
 At this time, the IP is classified as safe and does not appear to be associated with any known threats, suspicious activity, or security risks.
+```
 # Screenshot
 
 <img width="704" height="270" alt="Screenshot 2026-05-11 115729" src="https://github.com/user-attachments/assets/e5e520c4-753b-4775-915c-78248dfdf8a6" />

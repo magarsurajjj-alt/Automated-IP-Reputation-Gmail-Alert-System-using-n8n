@@ -89,7 +89,7 @@ Client Secret
 Paste them into Gmail OAuth2 credentials in n8n
 ```
 🌐 Threat Intelligence API
-
+```
 Example API:
 
 https://jsonplaceholder.typicode.com/users
@@ -100,6 +100,7 @@ AbuseIPDB
 VirusTotal
 AlienVault OTX
 GreyNoise
+```
 🧩 Workflow Nodes
 1️⃣ Manual Trigger
 

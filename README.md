@@ -34,16 +34,18 @@ Safe Email                 Threat Alert Email
 <img width="1365" height="679" alt="workflow_n8n" src="https://github.com/user-attachments/assets/f8321a82-ca0c-451b-947d-4f922bc5bc64" />
 
 # ⚙️ Technologies Used
+```
 n8n
 Gmail OAuth2 API
 HTTP Request API Integration
 JSON Processing
 Conditional Logic
 Security Automation Concepts
+```
 # 📌 Project Objective
-
+```
 This project demonstrates how SOC analysts and cybersecurity engineers can automate threat intelligence analysis and email alerting using low-code automation.
-
+```
 The workflow:
 
 Accepts an IP address

@@ -159,7 +159,7 @@ At this time, the IP is classified as safe and does not appear to be associated 
 <img width="704" height="270" alt="Screenshot 2026-05-11 115729" src="https://github.com/user-attachments/assets/e5e520c4-753b-4775-915c-78248dfdf8a6" />
 
 
-# 🚨 Example Threat Alert
+# 🚨Example Threat Alert
 ```
 Subject:
 SOC Threat Detection Alert
@@ -169,13 +169,16 @@ Potentially malicious activity has been detected during automated IP reputation 
 Immediate investigation is recommended.
 ```
 # 🧪 How to Run
+```
 Click:
 Execute Workflow
 Observe workflow path:
 TRUE → Threat alert
 FALSE → Safe notification
 Check email inbox for automated alert.
+```
 # 📚 Skills Demonstrated
+```
 Security Automation
 SOC Workflow Design
 Threat Intelligence Integration
@@ -184,7 +187,9 @@ API Handling
 Conditional Logic
 Email Automation
 Incident Notification Systems
+```
 # 🔥 Future Improvements
+```
 Slack/Discord alerts
 Splunk integration
 VirusTotal API support

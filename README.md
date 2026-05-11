@@ -1,4 +1,4 @@
-# 🔐 Automated IP Reputation & Gmail Alert System using n8n
+<img width="704" height="270" alt="Screenshot 2026-05-11 115729" src="https://github.com/user-attachments/assets/b7b10f7d-55a7-4da0-924e-a21b627f4b66" /># 🔐 Automated IP Reputation & Gmail Alert System using n8n
 
 A Security Operations Center (SOC)-style automation workflow built in n8n that analyzes IP reputation data and automatically sends professional Gmail alerts based on the security assessment result.
 
@@ -141,18 +141,23 @@ Two different email paths:
 
 Sends a professional safe-status notification.
 
-🚨 Threat Alert Email
+#🚨 Threat Alert Email
 
 Sends a high-priority security alert.
 
-📧 Example Safe Email
+# 📧 Example Safe Email
 Subject:
 SOC Security Analysis Result
 Body:
 The IP address has been thoroughly analyzed as part of the security validation process. Based on the available threat intelligence and activity review, no malicious behavior, anomalies, or indicators of compromise were detected.
 
 At this time, the IP is classified as safe and does not appear to be associated with any known threats, suspicious activity, or security risks.
-🚨 Example Threat Alert
+# Screenshot
+
+<img width="704" height="270" alt="Screenshot 2026-05-11 115729" src="https://github.com/user-attachments/assets/e5e520c4-753b-4775-915c-78248dfdf8a6" />
+
+
+#🚨 Example Threat Alert
 Subject:
 SOC Threat Detection Alert
 Body:
